@@ -3,7 +3,7 @@
 ✨ Leverages **LLM**(GPT can be used, currently I am using LLAMA3.3 model) to provide **data-driven insights** for optimizing social media strategies.  
 
 ## 🎥 Demo Video  
-[**My demo video**](#)
+[![Level SuperMind Hackathon Project Demo](https://github.com/user-attachments/assets/6d9af77f-ac89-4734-b056-1d4abd06da53)](https://youtu.be/3yfi3Buneio)
 
 ---
 
